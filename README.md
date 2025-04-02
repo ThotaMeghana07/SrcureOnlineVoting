@@ -1,2 +1,6 @@
-# SrcureOnlineVoting
-An end-to-end encrypted voting platform where users authenticate via email OTP, cast digitally signed votes, and track poll results, ensuring tamper-proof elections with SHA-256 hashing and RSA cryptography.
+# SecureVote
+
+1) Run npm install in 2FA folder then 'node app.js'
+2) compilation : 
+    g++ server.cpp -o s -lcurl -lcrypto -lssl
+    g++ client.cpp -o c -lcurl -lcrypto -lssl

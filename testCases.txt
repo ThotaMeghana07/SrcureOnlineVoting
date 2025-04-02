@@ -1,0 +1,24 @@
+testCase1:
+
+signup
+meghana@gmail.com
+meghana123
+...
+PostPoll
+Which programming language do you prefer?
+Python
+Java
+C++
+JavaScript
+logout
+
+testCase2:
+
+signup
+uma@gmail.com
+uma1234
+...
+AnswerPoll
+1
+3
+-1
